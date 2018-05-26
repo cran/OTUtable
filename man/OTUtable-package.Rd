@@ -13,8 +13,8 @@ Three data files are included: otu_table, taxonomy, and metadata. Access these b
 \tabular{ll}{
 Package: \tab OTUtable\cr
 Type: \tab Package\cr
-Version: \tab 1.1.0\cr
-Date: \tab 2017-06-28\cr
+Version: \tab 1.1.2\cr
+Date: \tab 2018-05-26\cr
 License: \tab GPL-3 \cr
 }
 Functions include:
